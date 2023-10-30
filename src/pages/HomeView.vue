@@ -16,7 +16,6 @@
           <h4 class="text-center text-white">
            EduConsult Education Consultancy
           </h4>
-          
           <p>
             Deliverers of quality and reliable international scholarships you can trust 
           </p>
